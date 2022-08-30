@@ -1,1 +1,3 @@
-# Deconvolving_Sources_of_Uncertainty
+# Deconvolving Sources of Uncertainty
+
+This repository is related to the paper "Calculatig Error from Spatial Datasets with Disparate Accuracy and Scale" by Ksiazek and Pyrcz.
